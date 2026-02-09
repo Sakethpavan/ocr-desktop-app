@@ -1,5 +1,5 @@
 # 🔍 OCR Desktop App
-[![Release Build](https://github.com/YOUR_USERNAME/ocr-desktop-app/actions/workflows/release.yml/badge.svg)](https://github.com/YOUR_USERNAME/ocr-desktop-app/actions)
+[![Release Build](https://github.com/Sakethpavan/ocr-desktop-app/actions/workflows/release.yml/badge.svg)](https://github.com/Sakethpavan/ocr-desktop-app/actions)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A lightweight, local-first OCR tool built with **Tauri 2.0**, **React**, and **Rust**. Convert images to text instantly without uploading your data to the cloud.
